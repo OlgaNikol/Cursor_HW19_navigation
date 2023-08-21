@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Cursor_HW19_navigation/static/css/main.349fd550.css",
+    "main.js": "/Cursor_HW19_navigation/static/js/main.9e086325.js",
+    "static/media/avatar.jpg": "/Cursor_HW19_navigation/static/media/avatar.f3cc5e25c96aaf26f129.jpg",
+    "static/media/insta3.jpg": "/Cursor_HW19_navigation/static/media/insta3.0247dd8c6052f5507920.jpg",
+    "static/media/insta9.jpg": "/Cursor_HW19_navigation/static/media/insta9.19a3385c4c724b02b607.jpg",
+    "static/media/1.jpg.webp": "/Cursor_HW19_navigation/static/media/1.jpg.9fb43d020c7b40578174.webp",
+    "static/media/insta13.jpg": "/Cursor_HW19_navigation/static/media/insta13.6a1a0564621af4e46816.jpg",
+    "static/media/insta6.jpg": "/Cursor_HW19_navigation/static/media/insta6.7079a6dc4efa6eebfb47.jpg",
+    "static/media/insta7.jpg": "/Cursor_HW19_navigation/static/media/insta7.fd4e6e45bdd546e32d86.jpg",
+    "static/media/insta10.jpg": "/Cursor_HW19_navigation/static/media/insta10.495f58a05ca75ece8ec2.jpg",
+    "static/media/ibexes.jpg.webp": "/Cursor_HW19_navigation/static/media/ibexes.jpg.444c55ff41923532063e.webp",
+    "static/media/bird.png.webp": "/Cursor_HW19_navigation/static/media/bird.png.b1640ba55793937e568c.webp",
+    "static/media/insta14.jpg": "/Cursor_HW19_navigation/static/media/insta14.b6792828289465b976fe.jpg",
+    "static/media/insta2.jpg": "/Cursor_HW19_navigation/static/media/insta2.db88c900e250c464a6f0.jpg",
+    "static/media/insta11.jpg": "/Cursor_HW19_navigation/static/media/insta11.8c767d8d6803b5eb3a4e.jpg",
+    "static/media/insta5.jpg": "/Cursor_HW19_navigation/static/media/insta5.1508f45cd8c73effca3c.jpg",
+    "static/media/insta8.jpg": "/Cursor_HW19_navigation/static/media/insta8.cef594ff0edf6a9c42bc.jpg",
+    "static/media/insta12.jpg": "/Cursor_HW19_navigation/static/media/insta12.b400c42e47c8154a68ac.jpg",
+    "static/media/insta1.jpg": "/Cursor_HW19_navigation/static/media/insta1.3af7ae0f430ef83b304f.jpg",
+    "static/media/insta4.jpg": "/Cursor_HW19_navigation/static/media/insta4.379b1dc328bef7fbb57f.jpg",
+    "static/media/person-dress-solid.svg": "/Cursor_HW19_navigation/static/media/person-dress-solid.be7cc8ea23448732cff7242f28b9fbf9.svg",
+    "index.html": "/Cursor_HW19_navigation/index.html",
+    "static/media/person-solid.svg": "/Cursor_HW19_navigation/static/media/person-solid.0ba81d6f6e3e03321b3e75697dd31ca6.svg",
+    "main.349fd550.css.map": "/Cursor_HW19_navigation/static/css/main.349fd550.css.map",
+    "main.9e086325.js.map": "/Cursor_HW19_navigation/static/js/main.9e086325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.349fd550.css",
+    "static/js/main.9e086325.js"
+  ]
+}
