@@ -1,5 +1,5 @@
 {
-  "homepage": "https://OlgaNikol.github.io/Cursor_HW17_contacts",
+  "homepage": "https://OlgaNikol.github.io/Cursor_HW19_navigation",
   "name": "hw19-navigation",
   "version": "0.1.0",
   "private": true,
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
