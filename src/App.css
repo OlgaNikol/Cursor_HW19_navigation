@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.navigation {
+  padding: 20px 30px;
+  background-color: #0b6060;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.navigation a {
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.navigation a:hover {
+  color: #dedada;
+}
+
+.container {
+  padding: 20px 30px;
+  text-align: center;
+}
